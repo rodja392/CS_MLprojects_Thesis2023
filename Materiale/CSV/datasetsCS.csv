@@ -1,0 +1,51 @@
+Nome progetto;Link repo;NoD;NCD;PCD;NIS;NC;TZ;OSE;BCE;PDE;SV;OS;SD;RS;TFS;UI;TC
+Docker for Visual Studio Code;https://github.com/microsoft/vscode-docker;74;1105;0.02;1489;4;13;1;0;0;0;0;0;0;0;0;1
+Quantum Katas;https://github.com/microsoft/QuantumKatas;102;328;0.02;94;5;14;0;1;0;0;1;0;0;1;0;1
+Oboe;https://github.com/google/oboe;32;1221;0.18;628;5;13;0;0;0;1;0;0;0;1;0;1
+Leshan;https://github.com/eclipse/leshan;43;1278;0.09;429;3;12;1;1;0;0;1;0;0;0;0;1
+Oryx;https://github.com/microsoft/Oryx;18;918;0.55;107;3;5;0;0;1;0;0;0;0;0;0;1
+Microsoft365DSC;https://github.com/microsoft/Microsoft365DSC;33;3389;0.12;343;3;10;1;0;1;1;1;0;1;0;0;1
+GraphicsFuzz;https://github.com/google/graphicsfuzz;19;656;0.26;385;4;13;0;0;0;0;0;1;0;0;0;1
+Nomulus;https://github.com/google/nomulus;55;3261;0.23;32;3;7;0;0;0;0;0;1;0;0;0;1
+Orbit;https://github.com/google/orbit;27;2472;0.85;78;3;9;0;1;1;1;0;0;0;0;0;1
+Turbinia;https://github.com/google/turbinia;36;482;0.08;220;3;14;1;1;1;0;0;1;1;1;1;0
+Zopfli;https://github.com/google/zopfli;17;132;0.17;113;3;10;0;1;1;1;1;1;1;0;1;0
+Gops; https://github.com/google/gops;37;172;0;45;7;14;0;0;0;0;1;0;0;0;1;0
+Cascadia Code;https://github.com/microsoft/cascadia-code;14;156;0.14;301;3;6;0;0;1;0;0;1;0;1;1;0
+Vstest; https://github.com/microsoft/vstest;94;1243;0.05;1258;3;9;1;1;1;0;0;1;0;1;0;1
+Power Stig;https://github.com/microsoft/PowerStig;34;1035;0.32;374;3;9;0;0;0;1;0;0;0;1;1;0
+Gantt project; https://github.com/bardsoftware/ganttproject;47;3181;0.04;1634;6;8;1;0;1;0;1;1;1;0;1;0
+Helix;https://github.com/apache/helix;75;3870;0.04;571;3;12;1;0;0;0;0;1;1;0;1;0
+Chartify;https://github.com/spotify/chartify;15;160;0.13;67;4;10;0;0;0;1;1;1;1;0;1;0
+Mobius;https://github.com/spotify/mobius;22;368;0.5;27;3;6;0;0;1;1;0;0;0;0;1;0
+Lemminx;https://github.com/eclipse/lemminx;25;879;0.24;495;2;7;0;0;1;0;0;0;0;0;1;0
+Iceoryx;https://github.com/eclipse/iceoryx;31;1719;0.67;162;2;9;1;0;0;0;0;0;0;0;0;1
+Californium;https://github.com/eclipse/californium;64;2248;0.04;540;4;13;1;0;0;0;1;0;0;0;0;1
+Ditto;https://github.com/eclipse/ditto;45;5891;0.35;227;4;4;0;0;0;1;1;0;0;0;0;1
+Gef;https://github.com/eclipse/gef;32;5258;0.09;13;3;7;0;0;0;0;0;1;1;0;0;1
+sw360;https://github.com/eclipse/sw360;37;765;0.29;540;2;10;0;0;0;1;0;1;0;0;0;1
+Nebula;https://github.com/eclipse/nebula;113;3362;0.01;23;6;11;1;1;1;1;1;0;1;0;0;1
+Winery; https://github.com/eclipse/winery;57;1883;0.1;42;3;7;0;0;1;0;1;0;0;1;1;0
+RxGo;https://github.com/ReactiveX/RxGo;34;663;0.02;112;5;13;0;1;1;1;1;1;1;1;1;0
+OpenMeetings;https://github.com/apache/openmeetings;19;2929;0.05;40;3;11;1;0;0;0;0;1;1;0;0;1
+Compose samples;https://github.com/android/compose-samples;28;484;0.57;63;3;10;0;1;1;0;0;0;0;1;1;0
+Android tes;https://github.com/android/android-test;25;756;0.2;238;5;9;0;1;0;1;0;0;0;1;0;1
+Sunflower;https://github.com/android/sunflower;54;442;0.05;196;4;14;0;1;1;0;1;0;0;0;1;0
+Uamp;https://github.com/android/uamp;43;413;0.02;293;4;13;1;1;1;1;1;1;1;0;1;0
+PTVS;https://github.com/microsoft/PTVS;80;9125;0.03;3712;4;15;1;0;1;0;1;1;1;0;0;1
+Dicom server;https://github.com/microsoft/dicom-server;23;451;0.39;2;2;4;1;0;1;0;0;0;0;1;0;1
+Adaptive Cards;https://github.com/microsoft/AdaptiveCards;93;2617;0.06;2513;3;14;0;1;0;0;0;1;0;1;0;1
+WSLab;https://github.com/microsoft/WSLab;24;1695;0.04;54;4;11;1;1;1;0;1;1;0;1;1;0
+tslib;https://github.com/microsoft/tslib;29;173;0.06;50;4;8;0;0;0;1;1;1;1;0;1;0
+SlnGen;https://github.com/microsoft/slngen;10;181;0.1;45;3;6;0;0;1;1;0;1;0;0;1;0
+Vipr;https://github.com/microsoft/Vipr;24;310;0;61;7;4;0;1;0;1;1;0;0;0;1;0
+Checked C;https://github.com/microsoft/checkedc;30;396;0.03;132;5;11;1;0;1;1;0;1;1;0;1;0
+TeamCloud;https://github.com/microsoft/TeamCloud;5;1092;0.2;187;2;7;0;0;0;0;0;1;0;1;1;0
+Testfx;https://github.com/microsoft/testfx;61;274;0.01;430;7;11;1;0;0;1;1;1;1;0;0;1
+Vscode java test;https://github.com/microsoft/vscode-java-test;15;575;0.13;532;3;6;1;1;1;1;1;1;0;0;1;0
+WinObjC;https://github.com/microsoft/WinObjC;94;3482;0.57;1824;2;10;0;0;1;1;0;0;0;1;0;1
+Omi;https://github.com/microsoft/omi;43;862;0.09;229;6;10;0;0;0;1;0;0;1;0;1;0
+Playwright;https://github.com/microsoft/playwright;82;3117;0.14;1052;3;15;0;0;0;1;1;0;0;1;1;0
+Ambrosia;https://github.com/microsoft/AMBROSIA;19;642;0.68;36;2;8;0;0;1;0;0;0;0;0;1;0
+clrmd;https://github.com/microsoft/clrmd;66;811;0.01;251;9;15;1;1;1;1;1;1;1;0;0;1
+ApplicationInsights Java;https://github.com/microsoft/ApplicationInsights-Java;73;2741;0.01;463;5;14;1;1;1;0;1;1;1;1;0;1

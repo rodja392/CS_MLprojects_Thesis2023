@@ -1,0 +1,51 @@
+﻿Nome progetto;Link repo;OSE;BCE;PDE;SV;OS;SD;RS;TFS;UI;TC;NoD;NCD;PCD;NI;NC;TZ
+Data Science iPython;https://github.com/donnemartin/data-science-ipython-notebooks;0;1;1;1;0;0;0;1;1;1;13;543;0,07;35;6;9
+Istant Neural Graphics;https://github.com/NVlabs/instant-ngp;1;0;1;1;0;1;1;1;1;0;41;684;0,02;815;3;14
+Basic Machine Learming and Deep Learning;https://github.com/wepe/MachineLearning;1;1;1;1;0;0;1;1;1;1;6;72;0,33;32;2;1
+Covidify;https://github.com/AaronWard/covidify;0;0;1;1;0;0;0;1;1;0;11;270;0,72;32;2;6
+Antialiased CNNs;https://github.com/adobe/antialiased-cnns;0;0;1;1;0;1;0;1;1;0;8;239;0,25;46;3;3
+AdvBox;https://github.com/advboxes/AdvBox;0;0;1;1;0;1;0;1;1;0;21;378;0,04;38;3;4
+AI chatbot framework;https://github.com/alfredfrancis/ai-chatbot-framework;1;1;1;1;1;1;0;1;0;0;26;412;0,07;110;5;15
+AI Matrix;https://github.com/alibaba/ai-matrix;0;0;1;1;0;0;0;1;1;1;9;299;0,44;14;2;5
+SciBERT;https://github.com/allenai/scibert;0;0;1;1;0;0;0;1;1;0;8;253;0,75;89;2;5
+Neural-Backed Decision Tree;https://github.com/alvinwan/neural-backed-decision-trees;0;0;1;1;0;0;0;1;1;0;18;830;0,55;26;4;7
+Ktrain;https://github.com/amaiya/ktrain;0;0;1;1;0;1;0;1;0;0;18;2938;0,11;451;3;12
+Embedding as service;https://github.com/amansrivastava17/embedding-as-service;0;0;1;1;0;1;0;1;1;1;14;396;0,14;24;3;5
+Transfer and meta-learning in Python;https://github.com/amzn/xfer;1;0;1;1;1;0;0;1;0;1;11;200;0,27;12;4;5
+einops;https://github.com/arogozhnikov/einops;0;1;1;1;0;1;0;1;0;0;23;588;0,08;138;5;10
+help_ml;https://github.com/arogozhnikov/hep_ml;0;0;1;1;0;1;0;1;1;0;12;357;0,16;58;4;7
+Flambè;https://github.com/asappresearch/flambe;0;0;1;1;0;0;0;1;1;0;29;661;0,65;48;3;7
+SRU ++;https://github.com/asappresearch/sru;0;0;1;1;0;1;1;1;1;0;22;400;0,09;127;3;8
+Transformer TTS;https://github.com/as-ideas/TransformerTTS;0;1;1;1;0;0;0;1;0;1;6;461;0,83;87;1;4
+rlpyt;https://github.com/astooke/rlpyt;0;0;0;1;0;0;0;1;1;0;18;658;0,27;168;2;10
+Athena;https://github.com/athena-team/athena;0;0;1;1;0;0;0;1;1;0;36;689;0,38;135;3;4
+Visual Dialog Challlenge Starter Code;https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch;0;0;1;1;0;0;1;1;0;0;6;121;0,33;28;3;6
+nflows;https://github.com/bayesiains/nflows;1;1;1;0;1;1;0;0;0;0;28;159;0,03;45;5;5
+Text Recognition Data Generator;https://github.com/Belval/TextRecognitionDataGenerator;1;1;1;0;1;1;1;1;0;0;33;152;0,03;212;9;14
+Ivis;https://github.com/beringresearch/ivis;0;0;1;1;0;1;0;1;1;0;10;623;0,2;59;3;5
+Animal AI;https://github.com/beyretb/AnimalAI-Olympics;0;0;1;1;0;1;0;1;1;0;11;316;0,18;70;3;7
+exBERT;https://github.com/bhoov/exbert;0;0;1;1;0;0;0;1;1;0;6;156;0,66;19;2;3
+BindsNET;https://github.com/BindsNET/bindsnet;1;0;1;0;0;1;1;1;0;1;58;1765;0,01;228;4;14
+OpenProtein;https://github.com/biolib/openprotein;1;0;1;0;0;1;0;1;0;0;5;163;0;22;3;5
+Bitextor;https://github.com/bitextor/bitextor;0;0;1;1;1;0;1;0;1;1;41;3972;0,09;156;4;4
+Medical Zoo Pytorch;https://github.com/black0017/MedicalZooPytorch;0;1;1;1;0;0;1;1;0;1;7;122;0,42;19;3;5
+Hey, Jetson;https://github.com/bricewalker/Hey-Jetson;0;1;1;1;0;0;0;1;1;1;4;406;0,75;12;2;3
+Keras RCNN;https://github.com/broadinstitute/keras-rcnn;0;0;1;1;0;1;0;1;1;0;22;838;0,09;NA;3;12
+Dostoevskij;https://github.com/bureaucratic-labs/dostoevsky;0;1;1;1;0;0;0;1;1;0;7;350;0,71;43;2;4
+PyTorch Bootstrap;https://github.com/Cadene/bootstrap.pytorch;0;0;1;1;1;1;0;1;0;1;16;238;0,25;17;4;6
+Calamari ORC;https://github.com/Calamari-OCR/calamari;1;0;1;1;0;1;0;1;1;0;25;441;0,08;259;3;5
+Basenji;https://github.com/calico/basenji;0;0;1;1;0;1;0;0;1;0;15;1960;0,13;130;3;8
+Machine Learning carefree;https://github.com/carefree0910/MachineLearning;0;0;1;1;0;0;0;1;1;1;4;551;0,75;8;2;2
+Catalyst;https://github.com/catalyst-team/catalyst;1;0;1;1;1;0;1;1;0;0;113;1698;0,03;352;3;17
+Snake;https://github.com/chuyangliu/snake;0;1;1;0;0;0;1;1;0;1;4;237;1;19;1;6
+MindMeld;https://github.com/cisco/mindmeld;0;0;1;1;1;0;0;1;0;0;77;3317;0,11;116;3;11
+SMFLearner Pytorch;https://github.com/ClementPinard/SfmLearner-Pytorch;1;0;1;0;0;1;0;1;0;0;11;132;0,09;134;3;5
+OtterTune;https://github.com/cmu-db/ottertune;0;0;1;1;0;0;0;1;1;0;13;384;0,76;126;3;6
+Open TPOD;https://github.com/cmusatyalab/OpenTPOD;0;1;1;1;0;0;0;1;1;1;6;272;0,83;21;2;6
+ConvLab;https://github.com/ConvLab/ConvLab;0;0;1;1;0;0;0;1;1;0;24;501;0,66;57;3;8
+Gpytorch;https://github.com/cornellius-gp/gpytorch;1;1;1;1;1;0;0;1;1;0;131;3764;0,03;1218;3;15
+ConvoKit;https://github.com/CornellNLP/ConvoKit;0;0;1;1;0;1;0;1;1;0;29;1399;0,06;84;3;11
+Cortex;https://github.com/cortexlabs/cortex;0;0;1;1;0;1;0;0;0;0;28;2327;0,21;1095;4;12
+The Autonomous Learning Library;https://github.com/cpnota/autonomous-learning-library;1;0;1;1;0;1;0;1;1;1;10;271;0,1;78;4;6
+RL Card;https://github.com/datamllab/rlcard;0;1;1;1;0;1;0;0;0;0;47;862;0,1;169;5;13
+DeepMedic;https://github.com/deepmedic/deepmedic;0;0;0;1;0;1;0;1;0;1;11;537;0,09;195;3;3
